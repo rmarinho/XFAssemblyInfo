@@ -1,5 +1,5 @@
 # XFAssemblyInfo
-et information about Xamarin.Forms version, package version, build and associated commit:
+Information about Xamarin.Forms version, package version, build and associated commit:
 
 As of Xamarin.Forms 4.0, all assemblies inside the public nupkg provide information about the package version they reference, the corresponding GitHub commit, and the AzureDevOps build ID that created the package.
 
