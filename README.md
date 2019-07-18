@@ -41,6 +41,6 @@ Some example code to extract the values
 ## Sample code
 
 Run the sample and visit the AboutPage
-
-
-
+![alt text](https://i.ibb.co/ZxZStVB/unnamed-2.jpg "4.2")
+![alt text](https://i.ibb.co/928TYYg/unnamed-4.jpg "4.2")
+![alt text](https://i.ibb.co/YN6xYRF/unnamed-3.jpg "4.2")
