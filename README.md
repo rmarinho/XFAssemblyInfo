@@ -6,7 +6,7 @@ Since version Xamarin.Forms 4.0 all assemblies inside the public nupkg provide i
 You can get this information by consulting the `AssemblyFileVersion` or for more detail info the `AssemblyInformationalVersion` 
 
 
-`AssemblyInformationalVersion provides` something like `{XamarinFormsVersionWithSuffix}+sha.{commit}-azdo.{buildid}`
+`AssemblyInformationalVersion` provides something like `{XamarinFormsVersionWithSuffix}+sha.{commit}-azdo.{buildid}`
 
 Some example code to extract the values
 
